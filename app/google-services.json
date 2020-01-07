@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14807823299",
+    "firebase_url": "https://laba-quiz.firebaseio.com",
+    "project_id": "laba-quiz",
+    "storage_bucket": "laba-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14807823299:android:9d874c9ff4d966a156c376",
+        "android_client_info": {
+          "package_name": "com.example.labquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14807823299-970huhfkoifdinnf2q080qer68356gop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBXdr871QILNXdt2SesQYsjPaeEMe9iKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14807823299-970huhfkoifdinnf2q080qer68356gop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
